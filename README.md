@@ -3,7 +3,9 @@
 - Developing the adaptation skills of a algorithm to a real-life problem
 
 # Schemes of algorithms
-- Characteristics of problems and associated techniques of solving : Divide et Impera , Greedy, Dynamic programming
+- Divide et Impera
+- Greedy
+- Dynamic programming
 
 # Algorithms for graphs
 - Traversals
