@@ -2,12 +2,11 @@
 - Knowledge of an important set of algorithms and problem solving methods of Algorithms
 - Developing the adaptation skills of a algorithm to a real-life problem
 
-# Schemes of algorithms
+# Used algorithms
 - Divide et Impera
 - Greedy
 - Dynamic programming
-
-# Algorithms for graphs
+## for graphs
 - Traversals
 - Minimum Cost Paths
 - Minimum Spanning Trees
